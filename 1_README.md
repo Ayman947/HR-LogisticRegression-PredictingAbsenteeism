@@ -69,6 +69,6 @@ Education |Encoded Numbers for educational levels: High School, BSc, MSc and PhD
 
 # **Final Results**
 
-- [Predicts Of New Data](https://github.com/Ayman947/HR-LogisticRegression-PredictingAbsenteeism/blob/main/Data-Files/Predictions.csv)
+- [Predictions Of New Data](https://github.com/Ayman947/HR-LogisticRegression-PredictingAbsenteeism/blob/main/Data-Files/Predictions.csv)
 - [Excessive Absenteeism Predictors Dashboard](https://public.tableau.com/app/profile/ayman.el.taweel/viz/AbsenteeismDashboard_16279048897150/ExcessiveAbsenteeismDashboard)
 
