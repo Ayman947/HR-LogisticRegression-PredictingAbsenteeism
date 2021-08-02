@@ -24,6 +24,8 @@
 # **Data Sources**
 
 - [Emplyee Absenteeism Raw Data](https://github.com/Ayman947/HR-LogisticRegression-PredictingAbsenteeism/blob/main/Data-Files/1_absenteeism_data.csv)
+
+
 | Field    |     Description                                                               | Sample Values |
 |----------------|---------------------------------------------------------------------------------------|---------------|
 | ID    | Employee ID number|  123             |
@@ -60,8 +62,8 @@ Education |Encoded Numbers for educational levels: High School, BSc, MSc and PhD
 
 - Our model's accuracy is **73.57 %** (i.e For every 100 predictions, there are 74 predictions are true.)
 
-- ![Confusion Matrix](https://github.com/Ayman947/HR-LogisticRegression-PredictingAbsenteeism/blob/main/Data-Files/Confusion-matrix.PNG)
-- ![Inputs Odds Ratio](https://github.com/Ayman947/HR-LogisticRegression-PredictingAbsenteeism/blob/main/Data-Files/Input-odds.PNG)
+ ![Confusion Matrix](https://github.com/Ayman947/HR-LogisticRegression-PredictingAbsenteeism/blob/main/Data-Files/Confusion-matrix.PNG)
+ ![Inputs Odds Ratio](https://github.com/Ayman947/HR-LogisticRegression-PredictingAbsenteeism/blob/main/Data-Files/Input-odds.PNG)
 
 
 
