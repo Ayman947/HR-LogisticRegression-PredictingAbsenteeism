@@ -4,7 +4,7 @@
 
 - So, we built a **logistic regression ML model** to predict the **probability of excessive absenteeism**.
 
-- Having predicted the **probability of excessive absenteeism**, **HR professionals** will be enabled to **manage the employees capacity more effictively**.
+- Having predicted the **probability of excessive absenteeism**, **HR professionals** will be enabled to **manage the employees capacity more effectively**.
 
 
 
